@@ -1314,8 +1314,8 @@ body {
 
 .animal_compare {
   left: 75%;
-  top: 60%;
-  transform: translate(-50%, -50%) scalex(-1);
+  top: 50%;
+  transform: translate(-50%) scalex(-1);
 }
 
 @keyframes animal_up {
